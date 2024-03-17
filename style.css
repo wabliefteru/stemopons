@@ -3458,7 +3458,7 @@ p {
 }
 
 .container.header {
-  height: 150px;
+  height: 190px;
   flex-flow: column;
   justify-content: center;
   align-items: center;
@@ -3777,8 +3777,8 @@ p {
 
   .heading-3 {
     margin-top: 40px;
-    margin-bottom: 40px;
-    font-size: 27px;
+    margin-bottom: 0;
+    font-size: 50px;
   }
 
   .genomineerd-h2 {
@@ -3841,7 +3841,7 @@ p {
   }
 
   .container.header {
-    height: 100px;
+    height: 140px;
     padding-bottom: 0;
   }
 
@@ -3870,7 +3870,13 @@ p {
     max-height: none;
   }
 
-  .heading-3, .chatbox, .livestream-div {
+  .heading-3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 40px;
+  }
+
+  .chatbox, .livestream-div {
     margin-top: 20px;
     margin-bottom: 20px;
   }
@@ -3945,7 +3951,7 @@ p {
   }
 
   .container.header {
-    height: 70px;
+    height: 100px;
     padding-bottom: 0;
   }
 
