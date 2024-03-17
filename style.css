@@ -3672,7 +3672,7 @@ p {
 
 .genomineerd-h2 {
   margin-bottom: 20px;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .bpa-logo-big {
@@ -3782,7 +3782,7 @@ p {
   }
 
   .genomineerd-h2 {
-    font-size: 42px;
+    font-size: 38px;
   }
 
   .div-category.flipped {
@@ -3877,6 +3877,8 @@ p {
 
   .genomineerd-h2 {
     margin-bottom: 0;
+    margin-left: 20px;
+    margin-right: 20px;
     font-size: 30px;
   }
 
@@ -4035,7 +4037,8 @@ p {
 
   .genomineerd-h2 {
     margin-bottom: 0;
-    font-size: 25px;
+    font-size: 20px;
+    line-height: 27px;
   }
 
   .div-category {
